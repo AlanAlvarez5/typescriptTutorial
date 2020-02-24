@@ -1,6 +1,6 @@
 # Introducción a Typescript
 
-Habilitar el archivo de configuración de *Tupescript*
+Habilitar el archivo de configuración de *Typescript*
 
 ```bash
 tsc --init
